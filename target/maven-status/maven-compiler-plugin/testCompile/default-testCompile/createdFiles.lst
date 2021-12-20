@@ -1,0 +1,5 @@
+com\spring\security\service\CustomUserDetailsTest.class
+com\spring\security\api\controller\AuthenticationControllerTest.class
+com\spring\security\api\SpringSecurityJpaApplicationTests.class
+com\spring\security\service\CustomUserDetailsServiceTest.class
+com\spring\security\api\controller\AdminControllerTest.class

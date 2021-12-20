@@ -1,0 +1,12 @@
+C:\GST_Global\Spring-security-crud-test\springboot-security-test\src\main\java\com\spring\security\api\dto\UserDto.java
+C:\GST_Global\Spring-security-crud-test\springboot-security-test\src\main\java\com\spring\security\api\PasswordGenaration.java
+C:\GST_Global\Spring-security-crud-test\springboot-security-test\src\main\java\com\spring\security\api\model\User.java
+C:\GST_Global\Spring-security-crud-test\springboot-security-test\src\main\java\com\spring\security\api\controller\AuthenticationController.java
+C:\GST_Global\Spring-security-crud-test\springboot-security-test\src\main\java\com\spring\security\api\model\Role.java
+C:\GST_Global\Spring-security-crud-test\springboot-security-test\src\main\java\com\spring\security\api\config\SecurityConfig.java
+C:\GST_Global\Spring-security-crud-test\springboot-security-test\src\main\java\com\spring\security\api\repository\RoleRepository.java
+C:\GST_Global\Spring-security-crud-test\springboot-security-test\src\main\java\com\spring\security\api\repository\UserRepository.java
+C:\GST_Global\Spring-security-crud-test\springboot-security-test\src\main\java\com\spring\security\api\service\CustomUserDetailsService.java
+C:\GST_Global\Spring-security-crud-test\springboot-security-test\src\main\java\com\spring\security\api\controller\AdminController.java
+C:\GST_Global\Spring-security-crud-test\springboot-security-test\src\main\java\com\spring\security\api\service\CustomUserDetails.java
+C:\GST_Global\Spring-security-crud-test\springboot-security-test\src\main\java\com\spring\security\api\SpringSecurityJpaApplication.java

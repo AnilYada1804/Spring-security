@@ -1,0 +1,12 @@
+com\spring\security\api\model\Role.class
+com\spring\security\api\model\User.class
+com\spring\security\api\repository\RoleRepository.class
+com\spring\security\api\repository\UserRepository.class
+com\spring\security\api\service\CustomUserDetailsService.class
+com\spring\security\api\dto\UserDto.class
+com\spring\security\api\controller\AuthenticationController.class
+com\spring\security\api\config\SecurityConfig.class
+com\spring\security\api\controller\AdminController.class
+com\spring\security\api\PasswordGenaration.class
+com\spring\security\api\SpringSecurityJpaApplication.class
+com\spring\security\api\service\CustomUserDetails.class
